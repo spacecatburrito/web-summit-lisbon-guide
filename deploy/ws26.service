@@ -1,0 +1,19 @@
+[Unit]
+Description=WS26 guide (Web Summit 2026 side-event plan API + Telegram bot)
+After=network.target
+
+[Service]
+User=ws26
+Group=ws26
+WorkingDirectory=/srv/ws26/app
+EnvironmentFile=/srv/ws26/.env
+ExecStart=/srv/ws26/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8006 --proxy-headers --forwarded-allow-ips 127.0.0.1
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/srv/ws26/data
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

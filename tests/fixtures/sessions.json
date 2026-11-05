@@ -1,0 +1,674 @@
+[
+ {
+  "id": "00000000-0000-0000-0000-000000000001",
+  "title": "AI agents: session 1",
+  "desc": "A synthetic test session about ai agents.",
+  "date": "2026-11-10",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 1",
+  "track": "AI agents",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 1, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000002",
+  "title": "Stablecoins: session 2",
+  "desc": "A synthetic test session about stablecoins.",
+  "date": "2026-11-11",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 2",
+  "track": "Stablecoins",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 2, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000003",
+  "title": "Fundraising: session 3",
+  "desc": "A synthetic test session about fundraising.",
+  "date": "2026-11-12",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 3",
+  "track": "Fundraising",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 3, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000004",
+  "title": "B2B SaaS growth: session 4",
+  "desc": "A synthetic test session about b2b saas growth.",
+  "date": "2026-11-10",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 4",
+  "track": "B2B SaaS growth",
+  "format": "Masterclass",
+  "speakers": [
+   "Speaker 4, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000005",
+  "title": "Climate tech: session 5",
+  "desc": "A synthetic test session about climate tech.",
+  "date": "2026-11-11",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 5",
+  "track": "Climate tech",
+  "format": "Keynote",
+  "speakers": [
+   "Speaker 5, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000006",
+  "title": "Women in tech: session 6",
+  "desc": "A synthetic test session about women in tech.",
+  "date": "2026-11-12",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 1",
+  "track": "Women in tech",
+  "format": "Q&A",
+  "speakers": [
+   "Speaker 6, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000007",
+  "title": "Security: session 7",
+  "desc": "A synthetic test session about security.",
+  "date": "2026-11-10",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 2",
+  "track": "Security",
+  "format": "Night Summit",
+  "speakers": [
+   "Speaker 7, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000008",
+  "title": "Product design: session 8",
+  "desc": "A synthetic test session about product design.",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 3",
+  "track": "Product design",
+  "format": "PITCH",
+  "speakers": [
+   "Speaker 8, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000009",
+  "title": "Gaming: session 9",
+  "desc": "A synthetic test session about gaming.",
+  "date": "2026-11-12",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 4",
+  "track": "Gaming",
+  "format": "Fireside",
+  "speakers": [
+   "Speaker 9, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000a",
+  "title": "Fintech regulation: session 10",
+  "desc": "A synthetic test session about fintech regulation.",
+  "date": "2026-11-10",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 5",
+  "track": "Fintech regulation",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 10, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000b",
+  "title": "AI agents: session 11",
+  "desc": "A synthetic test session about ai agents.",
+  "date": "2026-11-11",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 1",
+  "track": "AI agents",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 11, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000c",
+  "title": "Stablecoins: session 12",
+  "desc": "A synthetic test session about stablecoins.",
+  "date": "2026-11-12",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 2",
+  "track": "Stablecoins",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 12, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000d",
+  "title": "Fundraising: session 13",
+  "desc": "A synthetic test session about fundraising.",
+  "date": "2026-11-10",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 3",
+  "track": "Fundraising",
+  "format": "Masterclass",
+  "speakers": [
+   "Speaker 13, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000e",
+  "title": "B2B SaaS growth: session 14",
+  "desc": "A synthetic test session about b2b saas growth.",
+  "date": "2026-11-11",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 4",
+  "track": "B2B SaaS growth",
+  "format": "Keynote",
+  "speakers": [
+   "Speaker 14, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000000f",
+  "title": "Climate tech: session 15",
+  "desc": "A synthetic test session about climate tech.",
+  "date": "2026-11-12",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 5",
+  "track": "Climate tech",
+  "format": "Q&A",
+  "speakers": [
+   "Speaker 15, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000010",
+  "title": "Women in tech: session 16",
+  "desc": "A synthetic test session about women in tech.",
+  "date": "2026-11-10",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 1",
+  "track": "Women in tech",
+  "format": "Night Summit",
+  "speakers": [
+   "Speaker 16, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000011",
+  "title": "Security: session 17",
+  "desc": "A synthetic test session about security.",
+  "date": "2026-11-11",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 2",
+  "track": "Security",
+  "format": "PITCH",
+  "speakers": [
+   "Speaker 17, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000012",
+  "title": "Product design: session 18",
+  "desc": "A synthetic test session about product design.",
+  "date": "2026-11-12",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 3",
+  "track": "Product design",
+  "format": "Fireside",
+  "speakers": [
+   "Speaker 18, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000013",
+  "title": "Gaming: session 19",
+  "desc": "A synthetic test session about gaming.",
+  "date": "2026-11-10",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 4",
+  "track": "Gaming",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 19, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000014",
+  "title": "Fintech regulation: session 20",
+  "desc": "A synthetic test session about fintech regulation.",
+  "date": "2026-11-11",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 5",
+  "track": "Fintech regulation",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 20, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000015",
+  "title": "AI agents: session 21",
+  "desc": "A synthetic test session about ai agents.",
+  "date": "2026-11-12",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 1",
+  "track": "AI agents",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 21, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000016",
+  "title": "Stablecoins: session 22",
+  "desc": "A synthetic test session about stablecoins.",
+  "date": "2026-11-10",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 2",
+  "track": "Stablecoins",
+  "format": "Masterclass",
+  "speakers": [
+   "Speaker 22, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000017",
+  "title": "Fundraising: session 23",
+  "desc": "A synthetic test session about fundraising.",
+  "date": "2026-11-11",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 3",
+  "track": "Fundraising",
+  "format": "Keynote",
+  "speakers": [
+   "Speaker 23, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000018",
+  "title": "B2B SaaS growth: session 24",
+  "desc": "A synthetic test session about b2b saas growth.",
+  "date": "2026-11-12",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 4",
+  "track": "B2B SaaS growth",
+  "format": "Q&A",
+  "speakers": [
+   "Speaker 24, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000019",
+  "title": "Climate tech: session 25",
+  "desc": "A synthetic test session about climate tech.",
+  "date": "2026-11-10",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 5",
+  "track": "Climate tech",
+  "format": "Night Summit",
+  "speakers": [
+   "Speaker 25, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001a",
+  "title": "Women in tech: session 26",
+  "desc": "A synthetic test session about women in tech.",
+  "date": "2026-11-11",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 1",
+  "track": "Women in tech",
+  "format": "PITCH",
+  "speakers": [
+   "Speaker 26, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001b",
+  "title": "Security: session 27",
+  "desc": "A synthetic test session about security.",
+  "date": "2026-11-12",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 2",
+  "track": "Security",
+  "format": "Fireside",
+  "speakers": [
+   "Speaker 27, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001c",
+  "title": "Product design: session 28",
+  "desc": "A synthetic test session about product design.",
+  "date": "2026-11-10",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 3",
+  "track": "Product design",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 28, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001d",
+  "title": "Gaming: session 29",
+  "desc": "A synthetic test session about gaming.",
+  "date": "2026-11-11",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 4",
+  "track": "Gaming",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 29, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001e",
+  "title": "Fintech regulation: session 30",
+  "desc": "A synthetic test session about fintech regulation.",
+  "date": "2026-11-12",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 5",
+  "track": "Fintech regulation",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 30, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000001f",
+  "title": "AI agents: session 31",
+  "desc": "A synthetic test session about ai agents.",
+  "date": "2026-11-10",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 1",
+  "track": "AI agents",
+  "format": "Masterclass",
+  "speakers": [
+   "Speaker 31, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000020",
+  "title": "Stablecoins: session 32",
+  "desc": "A synthetic test session about stablecoins.",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 2",
+  "track": "Stablecoins",
+  "format": "Keynote",
+  "speakers": [
+   "Speaker 32, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000021",
+  "title": "Fundraising: session 33",
+  "desc": "A synthetic test session about fundraising.",
+  "date": "2026-11-12",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 3",
+  "track": "Fundraising",
+  "format": "Q&A",
+  "speakers": [
+   "Speaker 33, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000022",
+  "title": "B2B SaaS growth: session 34",
+  "desc": "A synthetic test session about b2b saas growth.",
+  "date": "2026-11-10",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 4",
+  "track": "B2B SaaS growth",
+  "format": "Night Summit",
+  "speakers": [
+   "Speaker 34, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000023",
+  "title": "Climate tech: session 35",
+  "desc": "A synthetic test session about climate tech.",
+  "date": "2026-11-11",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 5",
+  "track": "Climate tech",
+  "format": "PITCH",
+  "speakers": [
+   "Speaker 35, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000024",
+  "title": "Women in tech: session 36",
+  "desc": "A synthetic test session about women in tech.",
+  "date": "2026-11-12",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 1",
+  "track": "Women in tech",
+  "format": "Fireside",
+  "speakers": [
+   "Speaker 36, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000025",
+  "title": "Security: session 37",
+  "desc": "A synthetic test session about security.",
+  "date": "2026-11-10",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 2",
+  "track": "Security",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 37, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000026",
+  "title": "Product design: session 38",
+  "desc": "A synthetic test session about product design.",
+  "date": "2026-11-11",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 3",
+  "track": "Product design",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 38, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000027",
+  "title": "Gaming: session 39",
+  "desc": "A synthetic test session about gaming.",
+  "date": "2026-11-12",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 4",
+  "track": "Gaming",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 39, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000028",
+  "title": "Fintech regulation: session 40",
+  "desc": "A synthetic test session about fintech regulation.",
+  "date": "2026-11-10",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 5",
+  "track": "Fintech regulation",
+  "format": "Masterclass",
+  "speakers": [
+   "Speaker 40, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000029",
+  "title": "AI agents: session 41",
+  "desc": "A synthetic test session about ai agents.",
+  "date": "2026-11-11",
+  "start": "10:00",
+  "end": "10:45",
+  "loc": "Stage 1",
+  "track": "AI agents",
+  "format": "Keynote",
+  "speakers": [
+   "Speaker 41, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002a",
+  "title": "Stablecoins: session 42",
+  "desc": "A synthetic test session about stablecoins.",
+  "date": "2026-11-12",
+  "start": "11:00",
+  "end": "11:45",
+  "loc": "Stage 2",
+  "track": "Stablecoins",
+  "format": "Q&A",
+  "speakers": [
+   "Speaker 42, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002b",
+  "title": "Fundraising: session 43",
+  "desc": "A synthetic test session about fundraising.",
+  "date": "2026-11-10",
+  "start": "12:00",
+  "end": "12:45",
+  "loc": "Stage 3",
+  "track": "Fundraising",
+  "format": "Night Summit",
+  "speakers": [
+   "Speaker 43, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002c",
+  "title": "B2B SaaS growth: session 44",
+  "desc": "A synthetic test session about b2b saas growth.",
+  "date": "2026-11-11",
+  "start": "13:00",
+  "end": "13:45",
+  "loc": "Stage 4",
+  "track": "B2B SaaS growth",
+  "format": "PITCH",
+  "speakers": [
+   "Speaker 44, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002d",
+  "title": "Climate tech: session 45",
+  "desc": "A synthetic test session about climate tech.",
+  "date": "2026-11-12",
+  "start": "14:00",
+  "end": "14:45",
+  "loc": "Stage 5",
+  "track": "Climate tech",
+  "format": "Fireside",
+  "speakers": [
+   "Speaker 45, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002e",
+  "title": "Women in tech: session 46",
+  "desc": "A synthetic test session about women in tech.",
+  "date": "2026-11-10",
+  "start": "15:00",
+  "end": "15:45",
+  "loc": "Stage 1",
+  "track": "Women in tech",
+  "format": "Panel",
+  "speakers": [
+   "Speaker 46, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-00000000002f",
+  "title": "Security: session 47",
+  "desc": "A synthetic test session about security.",
+  "date": "2026-11-11",
+  "start": "16:00",
+  "end": "16:45",
+  "loc": "Stage 2",
+  "track": "Security",
+  "format": "Talk",
+  "speakers": [
+   "Speaker 47, Example Co"
+  ]
+ },
+ {
+  "id": "00000000-0000-0000-0000-000000000030",
+  "title": "Product design: session 48",
+  "desc": "A synthetic test session about product design.",
+  "date": "2026-11-12",
+  "start": "17:00",
+  "end": "17:45",
+  "loc": "Stage 3",
+  "track": "Product design",
+  "format": "Meetup",
+  "speakers": [
+   "Speaker 48, Example Co"
+  ]
+ }
+]

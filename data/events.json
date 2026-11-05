@@ -1,0 +1,2776 @@
+[
+ {
+  "id": "ws-first-timers",
+  "title": "First timers at Web Summit meetup",
+  "host": "Web Summit",
+  "date": "2026-11-10",
+  "start": "11:00",
+  "end": "11:55",
+  "venue": "Meetup 4, venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=a0f9cc27-ad2c-43c5-b67e-bb417ac20e0e",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "sales",
+    "other",
+    "corporate"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Official in-venue meetup; good first stop if you are new.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ws-product-people",
+  "title": "Product people meetup",
+  "host": "Web Summit",
+  "date": "2026-11-10",
+  "start": "12:00",
+  "end": "12:55",
+  "venue": "Meetup 6, venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=45260f5f-2666-4ce3-aadf-6974db8dd11c",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "recruiter"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "hire",
+    "get_hired",
+    "cofounder",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "The one room where product leaders and hiring managers meet.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "ws-saas-fintech-founders",
+  "title": "SaaS enterprises & fintech founders meetup",
+  "host": "Web Summit",
+  "date": "2026-11-11",
+  "start": "15:00",
+  "end": "15:55",
+  "venue": "Meetup 4, venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=745ec2a5-e7e1-4ced-be2f-ca9591ecd4cf",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "sales"
+   ],
+   "sectors": [
+    "fintech",
+    "saas"
+   ],
+   "goals": [
+    "cofounder",
+    "sell",
+    "raise",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Fintech and B2B founders in one place for an hour.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "ws-founders-ceos",
+  "title": "Founders & CEOs meetup",
+  "host": "Web Summit",
+  "date": "2026-11-12",
+  "start": "11:00",
+  "end": "11:55",
+  "venue": "Meetup 4, venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=c07a8808-9393-4da5-90cd-f086f29d258c",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "sales",
+    "recruiter"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "raise",
+    "sell",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Decision makers only; bring the one-line ask.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "ws-first-time-founders",
+  "title": "First time startup founders meetup",
+  "host": "Web Summit",
+  "date": "2026-11-11",
+  "start": "14:00",
+  "end": "14:55",
+  "venue": "Venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=014c8e4c-e45d-4368-ae3d-7808b8aa008c",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "learn",
+    "raise"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Early founders; cofounder hunting works here.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ws-ventures-builders",
+  "title": "Ventures & builders meetup",
+  "host": "Web Summit",
+  "date": "2026-11-12",
+  "start": "14:00",
+  "end": "14:55",
+  "venue": "Venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=e59f6cc9-a9ac-4cd9-bb23-bbc14f01d14f",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "cofounder",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Builders and investors, Thursday afternoon.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ws-uxui-designers",
+  "title": "UX/UI designers meetup",
+  "host": "Web Summit",
+  "date": "2026-11-11",
+  "start": "16:00",
+  "end": "16:55",
+  "venue": "Venue",
+  "address": "Altice Arena / FIL, Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://attend.websummit.com/dl/lis26/event?id=bd3b6f30-eefc-44ee-a421-50aaa3db3347",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "hire",
+    "get_hired",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Designers and product people; useful if you hire design.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ws-night-summit",
+  "title": "Night Summit (Mon-Wed evenings)",
+  "host": "Web Summit",
+  "date": "2026-11-09",
+  "start": "21:00",
+  "end": null,
+  "venue": "Venues announced in the app",
+  "address": "Lisbon, several venues",
+  "area": "Centro",
+  "url": "https://websummit.com/night-summit/",
+  "price": "free",
+  "access": "badge",
+  "needs_badge": true,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "sales",
+    "recruiter",
+    "corporate",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "party",
+    "cofounder",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Official bar network; venues appear in the app a few days before. Friends welcome, badge needed to identify yourself.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "female-tech-builders-dinner",
+  "title": "Female Tech Builders & Women in Tech Welcome Dinner",
+  "host": "Female Tech Builders, Nomad Girls Club",
+  "date": "2026-11-08",
+  "start": "20:00",
+  "end": "22:30",
+  "venue": "Secret location (sent after registration)",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/poylvrge",
+  "price": "EUR 6-15",
+  "access": "closed",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "women"
+   ],
+   "vibe": "dinner",
+   "themes": [
+    "women"
+   ]
+  },
+  "note": "Sold out on luma as of Oct 30; join the waitlist.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ptw-palace",
+  "title": "Portugal Tech Week Palace (base camp, Nov 9-13)",
+  "host": "Portugal Tech Week",
+  "date": "2026-11-09",
+  "start": "10:00",
+  "end": "20:00",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/gw2yg8jx",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "sales",
+    "recruiter",
+    "corporate",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "cofounder",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "workshop",
+   "themes": []
+  },
+  "note": "Free talks and after-hours all week; the best base if you have no badge.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "ai-builders-eng-leadership",
+  "title": "AI Builders Lisbon: Engineering Leadership",
+  "host": "AI Builders",
+  "date": "2026-11-09",
+  "start": "09:00",
+  "end": "18:00",
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "recruiter"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "hire",
+    "get_hired",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "careers"
+   ]
+  },
+  "note": "Full-day AI engineering leadership track near the venue.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "latam-office-hours",
+  "title": "Latin America Office Hours",
+  "host": "Casa da America Latina",
+  "date": "2026-11-09",
+  "start": "09:30",
+  "end": "18:30",
+  "venue": "Casa da America Latina",
+  "address": "Av. da India 110",
+  "area": "Belém",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "sales"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "latam"
+   ],
+   "vibe": "workshop",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Office hours for LATAM founders and anyone selling into the region.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "startups-embassy-forum",
+  "title": "Startups & Scaleups Embassy Forum",
+  "host": "ACT & U.S. Embassy in Portugal",
+  "date": "2026-11-09",
+  "start": "09:30",
+  "end": "11:30",
+  "venue": "See event page",
+  "address": "Sao Domingos de Benfica",
+  "area": "other",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "corporate",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "breakfast",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "US market entry conversations with embassy backing.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "second-brain-claude",
+  "title": "Build Your Second Brain with Claude",
+  "host": "Gui Perdrix, PTW",
+  "date": "2026-11-09",
+  "start": "10:00",
+  "end": "11:30",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/gw2yg8jx",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "other"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "workshop",
+   "themes": []
+  },
+  "note": "Hands-on AI workflow session at the Palace.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "app-growth-night",
+  "title": "App Growth Night during WebSummit",
+  "host": "web2wave",
+  "date": "2026-11-09",
+  "start": "17:00",
+  "end": "23:00",
+  "venue": "Unicorn Factory Lisboa",
+  "address": "Beato",
+  "area": "Beato",
+  "url": "https://wsguide26.r-founders.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "sales"
+   ],
+   "sectors": [
+    "consumer",
+    "saas"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "Mobile and web2app growth crowd.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "international-pitch-night",
+  "title": "International Pitch Night",
+  "host": "Unicorn Factory Lisboa",
+  "date": "2026-11-09",
+  "start": "18:00",
+  "end": "22:00",
+  "venue": "Unicorn Factory Lisboa",
+  "address": "Beato",
+  "area": "Beato",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Still open for registration on Oct 30.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ai-in-the-palace",
+  "title": "AI in the Palace",
+  "host": "CryptoMondays Lisbon & REWORLD AI",
+  "date": "2026-11-09",
+  "start": "19:00",
+  "end": "21:00",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/ksw5fd00",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "sales",
+    "other"
+   ],
+   "sectors": [
+    "ai",
+    "crypto"
+   ],
+   "goals": [
+    "cofounder",
+    "learn",
+    "party",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "150+ going; AI and crypto builders, free, no badge.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "borderless-night-paydone",
+  "title": "Borderless Night by PayDone",
+  "host": "PayDone",
+  "date": "2026-11-09",
+  "start": "19:30",
+  "end": "23:30",
+  "venue": "Papoila Bar",
+  "address": "Av. 24 de Julho 10",
+  "area": "Centro",
+  "url": "https://paydone.io/websummit/",
+  "price": "free",
+  "access": "invite",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "sales",
+    "corporate"
+   ],
+   "sectors": [
+    "fintech",
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "cofounder",
+    "party"
+   ],
+   "communities": [
+    "ru",
+    "crypto_biz"
+   ],
+   "vibe": "party",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Cross-border founders from Kyiv, Almaty, Tbilisi, Yerevan, Baku plus legal and accounting partners. Invite form, reply within 48h.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "vc-founders-table",
+  "title": "VC-Founders' Table: Lisbon",
+  "host": "MA Family",
+  "date": "2026-11-09",
+  "start": "19:00",
+  "end": "00:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "dinner",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Founder and VC dinner, application needed.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "pitch-drink-p2s",
+  "title": "Pitch&Drink with P2S.vc",
+  "host": "Pre-seed to Succeed",
+  "date": "2026-11-09",
+  "start": "18:00",
+  "end": "22:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Pre-seed pitching with drinks.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "latam-founders-breakfast",
+  "title": "LATAM Founders & Investors Breakfast",
+  "host": "Joom Group",
+  "date": "2026-11-10",
+  "start": "08:30",
+  "end": "10:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "sell",
+    "cofounder"
+   ],
+   "communities": [
+    "latam"
+   ],
+   "vibe": "breakfast",
+   "themes": [
+    "investors",
+    "regional"
+   ]
+  },
+  "note": "LATAM founders and investors before the venue opens.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ai-founders-breakfast",
+  "title": "AI Founders Breakfast",
+  "host": "Enchant",
+  "date": "2026-11-10",
+  "start": "09:00",
+  "end": "10:00",
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "cofounder",
+    "raise",
+    "hire"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "breakfast",
+   "themes": []
+  },
+  "note": "AI founders, five minutes from the venue.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "founder-vc-coffee",
+  "title": "Founder & VC Coffee Meetup",
+  "host": "Ask VC Team",
+  "date": "2026-11-10",
+  "start": "12:00",
+  "end": "13:00",
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Lunch-hour coffee with VCs next to the venue.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "built-in-brazil",
+  "title": "Built in Brazil, Scaled from Lisbon",
+  "host": "Portugal Tech Week",
+  "date": "2026-11-10",
+  "start": "16:00",
+  "end": "17:00",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/actonline-2zkp",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "sales"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "latam"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Brazil to Lisbon founders; BRL and cross-border angle.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "flagright-fincrime-dinner",
+  "title": "From Detection to Defensibility: dinner with financial crime leaders",
+  "host": "Flagright",
+  "date": "2026-11-10",
+  "start": "18:00",
+  "end": "21:00",
+  "venue": "Bairro Alto Hotel",
+  "address": "Praca Luis de Camoes 2",
+  "area": "Bairro Alto",
+  "url": "https://luma.com/flagright-ajub",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "corporate",
+    "founder",
+    "product"
+   ],
+   "sectors": [
+    "fintech",
+    "crypto"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "hire"
+   ],
+   "communities": [
+    "crypto_biz"
+   ],
+   "vibe": "dinner",
+   "themes": [
+    "compliance"
+   ]
+  },
+  "note": "AML and compliance heads; approval required.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ukrainian-networking",
+  "title": "Ukrainian Community Networking",
+  "host": "SendPulse",
+  "date": "2026-11-10",
+  "start": "18:00",
+  "end": null,
+  "venue": "IDB Rooftop",
+  "address": "Praca Jose Queiros 1",
+  "area": "Parque das Nações",
+  "url": "https://event.sendpulse.com/ukrainian-networking-lisbon",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "sales",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "hire",
+    "get_hired",
+    "party"
+   ],
+   "communities": [
+    "ru"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Ukrainian founders and tech people; fundraiser format.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "drummond-get-together",
+  "title": "Get Together Lisboa by Drummond Advisors",
+  "host": "Drummond Advisors",
+  "date": "2026-11-10",
+  "start": "18:30",
+  "end": "22:00",
+  "venue": "Black Sheep Lisboa",
+  "address": "Praca das Flores 62",
+  "area": "Centro",
+  "url": "https://luma.com/fnq6dvmh",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "corporate",
+    "sales"
+   ],
+   "sectors": [
+    "fintech",
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "latam",
+    "crypto_biz"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "US-Brazil cross-border tax and accounting crowd; Portuguese spoken.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "barcelona-cocktail",
+  "title": "Barcelona Catalonia Networking Cocktail",
+  "host": "ACCIO & Barcelona Activa",
+  "date": "2026-11-10",
+  "start": "18:30",
+  "end": "21:00",
+  "venue": "Fintech House Lisboa",
+  "address": "Av. Duque de Loulé 12",
+  "area": "Centro",
+  "url": "https://marketaccess-global.com/en/barcelona-catalonia-networking-cocktail-2026",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "corporate",
+    "sales"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Co-hosted by Startup Portugal; no Web Summit ticket needed.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "seconda-preipo-cocktail",
+  "title": "Pre-IPO Secondaries Cocktail Hours",
+  "host": "Seconda Private Markets",
+  "date": "2026-11-10",
+  "start": "19:00",
+  "end": "22:00",
+  "venue": "Bairro Alto (address after approval)",
+  "address": "Bairro Alto",
+  "area": "Bairro Alto",
+  "url": "https://luma.com/iecg7wfr",
+  "price": "free",
+  "access": "invite",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "investor",
+    "founder"
+   ],
+   "sectors": [
+    "fintech",
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "LPs, family offices and secondaries people; invite-only.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "meet-manus",
+  "title": "Meet Manus 2.0 in Lisbon",
+  "host": "Manus",
+  "date": "2026-11-10",
+  "start": "18:30",
+  "end": "21:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "other"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "learn",
+    "party",
+    "cofounder"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Agent-builder crowd; application on the event page.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "venture-night",
+  "title": "Venture Night @ Web Summit Lisbon",
+  "host": "TechEmbassy",
+  "date": "2026-11-10",
+  "start": "18:00",
+  "end": "00:00",
+  "venue": "See event page",
+  "address": "Bairro Alto",
+  "area": "Bairro Alto",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Big investor-founder night in Bairro Alto.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "mayors-reception",
+  "title": "Connect Lisboa: Mayor's Official Reception",
+  "host": "Camara Municipal de Lisboa",
+  "date": "2026-11-10",
+  "start": "18:30",
+  "end": "20:30",
+  "venue": "See event page",
+  "address": "Baixa",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "corporate",
+    "investor",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "party",
+    "sell"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "City reception; useful for anyone relocating a company to Lisbon.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "growthgirls-ai",
+  "title": "Scaling Businesses With AI",
+  "host": "GrowthGirls",
+  "date": "2026-11-10",
+  "start": "18:30",
+  "end": "22:00",
+  "venue": "See event page",
+  "address": "Cais do Sodré",
+  "area": "Centro",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "sales"
+   ],
+   "sectors": [
+    "ai",
+    "saas"
+   ],
+   "goals": [
+    "learn",
+    "cofounder",
+    "party"
+   ],
+   "communities": [
+    "women"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "women"
+   ]
+  },
+  "note": "Women-led growth and AI community night.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "supernovas-breakfast",
+  "title": "Supernovas Breakfast: Women Founders & Investors",
+  "host": "EIT Community Supernovas",
+  "date": "2026-11-11",
+  "start": "08:30",
+  "end": "10:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/ra0rls8k",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "cofounder",
+    "learn"
+   ],
+   "communities": [
+    "women"
+   ],
+   "vibe": "breakfast",
+   "themes": [
+    "investors",
+    "women"
+   ]
+  },
+  "note": "Women founders and investors, approval needed.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ru-founders-breakfast",
+  "title": "Russian-Speaking Founders Breakfast",
+  "host": "Enchant",
+  "date": "2026-11-11",
+  "start": "09:00",
+  "end": "10:00",
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://www.side-events-guide.com/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "raise",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "ru"
+   ],
+   "vibe": "breakfast",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Russian-speaking founders next to the venue before doors open.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "sales-leaders-breakfast",
+  "title": "Sales Leaders Breakfast",
+  "host": "Fort Wise AI Solutions",
+  "date": "2026-11-11",
+  "start": "09:00",
+  "end": "10:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/l4098oo8",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "sales",
+    "founder"
+   ],
+   "sectors": [
+    "saas",
+    "ai"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "hire"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "breakfast",
+   "themes": []
+  },
+  "note": "Sales and BD leaders; approval needed.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "fintech-breakfast",
+  "title": "Fintech Exclusive Breakfast",
+  "host": "Fintech House Lisboa",
+  "date": "2026-11-11",
+  "start": "09:30",
+  "end": "12:00",
+  "venue": "Fintech House Lisboa, 7th floor",
+  "address": "Av. Duque de Loulé 12",
+  "area": "Centro",
+  "url": "https://luma.com/ljzx2ril",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "corporate",
+    "sales",
+    "recruiter"
+   ],
+   "sectors": [
+    "fintech",
+    "crypto"
+   ],
+   "goals": [
+    "sell",
+    "hire",
+    "get_hired",
+    "cofounder",
+    "learn"
+   ],
+   "communities": [
+    "crypto_biz",
+    "any"
+   ],
+   "vibe": "breakfast",
+   "themes": []
+  },
+  "note": "Portuguese fintech community, licensed EMIs and CASPs and their lawyers. Free, no badge.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "bootstrappers-breakfast",
+  "title": "Bootstrappers' Breakfasts Lisbon",
+  "host": "Geeta Sidhu-Robb",
+  "date": "2026-11-11",
+  "start": "08:30",
+  "end": "10:30",
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://www.geetasidhu-robb.com/bootstrappers-lisbon",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder"
+   ],
+   "sectors": [
+    "saas",
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "learn",
+    "sell"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "breakfast",
+   "themes": []
+  },
+  "note": "Bootstrapped founders near the venue.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ai-engineers-lunch",
+  "title": "AI Engineers' Lunch",
+  "host": "Palo Alto AI Research Lab",
+  "date": "2026-11-11",
+  "start": "12:30",
+  "end": "14:30",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/85k5kz1g",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "recruiter"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "hire",
+    "get_hired",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "careers"
+   ]
+  },
+  "note": "Engineers and AI leads; good for hiring conversations.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "bridging-capital",
+  "title": "Bridging Capital Across Borders: Investors, Founders & Ecosystems in Portugal",
+  "host": "ALBAN Global Network & PTW",
+  "date": "2026-11-11",
+  "start": "15:30",
+  "end": "17:00",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/148l175b",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "investor",
+    "founder",
+    "corporate"
+   ],
+   "sectors": [
+    "fintech",
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn",
+    "sell"
+   ],
+   "communities": [
+    "latam",
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "investors",
+    "regional"
+   ]
+  },
+  "note": "Cross-border capital panel at the Palace.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "portugal-to-us",
+  "title": "From Portugal to the U.S.: A Founder's Playbook",
+  "host": "Drummond Ventures & Drummond CPA, PTW",
+  "date": "2026-11-11",
+  "start": "16:00",
+  "end": "17:00",
+  "venue": "PTW Palace, Room 2",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/portugal-6tns",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "corporate"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "raise"
+   ],
+   "communities": [
+    "latam",
+    "crypto_biz"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "US expansion masterclass by cross-border accountants.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "aubay-careers",
+  "title": "The Next Move: Aubay Portugal careers networking",
+  "host": "Aubay Portugal",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://luma.com/aa65srr3",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "other",
+    "recruiter"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "get_hired",
+    "hire"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "careers"
+   ]
+  },
+  "note": "Careers-focused networking by a Lisbon tech employer.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "fintech-pitch-party",
+  "title": "Fintech Pitch Party",
+  "host": "Enchant",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": "21:00",
+  "venue": "Casica",
+  "address": "Alameda dos Oceanos",
+  "area": "Parque das Nações",
+  "url": "https://luma.com/574bmobb",
+  "price": "free tier",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product",
+    "sales"
+   ],
+   "sectors": [
+    "fintech",
+    "crypto"
+   ],
+   "goals": [
+    "raise",
+    "sell",
+    "cofounder",
+    "party",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Fintech founders pitch, investors watch; free founder tier by approval, paid tiers EUR 70-150.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "beyond-appstore",
+  "title": "Beyond the AppStore: Web2App margins, retention, payments",
+  "host": "Sobremesa",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": "20:00",
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/20qjokzl",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder"
+   ],
+   "sectors": [
+    "consumer",
+    "fintech"
+   ],
+   "goals": [
+    "learn",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "Consumer subscription and payments product talk.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "notion-meetup",
+  "title": "Web Summit 2026 Notion Meetup",
+  "host": "Notion Portugal",
+  "date": "2026-11-11",
+  "start": "17:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/n5vfp5oz",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "other"
+   ],
+   "sectors": [
+    "saas",
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "party",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "Product and ops people around Notion.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "latam-after-hours",
+  "title": "Latin America After Hours",
+  "host": "Casa da America Latina",
+  "date": "2026-11-11",
+  "start": "18:00",
+  "end": "21:00",
+  "venue": "Casa da America Latina",
+  "address": "Av. da India 110",
+  "area": "Belém",
+  "url": "https://luma.com/bemptbqf",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "sales",
+    "corporate"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "sell",
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "latam",
+    "crypto_biz"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "LATAM founders and investors; BRL and cross-border angle.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "tech-startups-rooftop",
+  "title": "Tech Startups on the Rooftop",
+  "host": "Anna S",
+  "date": "2026-11-11",
+  "start": "18:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Martim Moniz",
+  "area": "Centro",
+  "url": "https://luma.com/rjh3pf7g",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "other"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "party",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Free rooftop mixer in the centre.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "altair-funders-founders",
+  "title": "Funders & Founders Night by AltaIR Capital",
+  "host": "AltaIR Capital",
+  "date": "2026-11-11",
+  "start": "18:30",
+  "end": null,
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/h19cccc5",
+  "price": "free",
+  "access": "closed",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "ai",
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "ru"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors",
+    "regional"
+   ]
+  },
+  "note": "Sold out on luma as of Oct 30; waitlist only.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "founder-effect",
+  "title": "The Founder Effect: What You Choose to Build Once You've Already Won",
+  "host": "Oleg Mosyazh and co-hosts",
+  "date": "2026-11-11",
+  "start": "19:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/wrz9dilz",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "cofounder",
+    "party"
+   ],
+   "communities": [
+    "ru"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Exited founders talk, application needed.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "foundacious",
+  "title": "Foundacious Lisbon",
+  "host": "Lukas Fiedler",
+  "date": "2026-11-11",
+  "start": "19:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Mouraria",
+  "area": "Centro",
+  "url": "https://luma.com/lapwcmfu",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "cofounder",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": []
+  },
+  "note": "Founder-only evening.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "tti-ai-safety",
+  "title": "TTI at Web Summit: Can AI Growth and Safety Be Aligned?",
+  "host": "Top Tier Impact",
+  "date": "2026-11-11",
+  "start": "18:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://luma.com/3504dzdm",
+  "price": "EUR 20",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "investor",
+    "founder",
+    "corporate"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "learn",
+    "raise"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Impact investors and AI founders; paid.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "breaking-into-america",
+  "title": "Breaking into America: US Fundraising Playbook for European Founders",
+  "host": "Lex Padilla and co-host, PTW",
+  "date": "2026-11-12",
+  "start": "16:00",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/fdr23mdq",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "investors",
+    "regional"
+   ]
+  },
+  "note": "US fundraising for European founders.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "ai-trading-strategies",
+  "title": "Building Better Trading Strategies with AI",
+  "host": "AI Velocity Trading & PTW",
+  "date": "2026-11-12",
+  "start": "17:30",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/dwuofjy8",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product"
+   ],
+   "sectors": [
+    "fintech",
+    "crypto",
+    "ai"
+   ],
+   "goals": [
+    "learn"
+   ],
+   "communities": [
+    "crypto_biz"
+   ],
+   "vibe": "talk",
+   "themes": []
+  },
+  "note": "AI and markets session at the Palace.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "producttank-sixt",
+  "title": "ProductTank Lisbon @ SIXT: Making Better Bets (Andrew Skotzko)",
+  "host": "ProductTank Lisbon",
+  "date": "2026-11-12",
+  "start": "18:30",
+  "end": "21:00",
+  "venue": "SIXT Lisbon office, Bloco A, 8th floor",
+  "address": "Av. Dom Joao II 49",
+  "area": "Parque das Nações",
+  "url": "https://www.meetup.com/producttank-lisbon/events/316909200/",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "recruiter"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "hire",
+    "get_hired",
+    "learn",
+    "cofounder"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "product",
+    "careers"
+   ]
+  },
+  "note": "Lisbon product community plus hiring managers; food and drinks by SIXT.",
+  "verified_on": "2026-10-30",
+  "elena_pick": true
+ },
+ {
+  "id": "closing-night-nest",
+  "title": "Closing Night of Web Summit Week: Founders, Drinks and Snacks at The Nest",
+  "host": "Madalena Costa and co-hosts",
+  "date": "2026-11-12",
+  "start": "18:30",
+  "end": null,
+  "venue": "The Nest",
+  "address": "Avenidas Novas",
+  "area": "Centro",
+  "url": "https://luma.com/wt5b7nsg",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "party",
+    "cofounder"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Waitlist on Oct 30; worth a try.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "contracts-cocktails",
+  "title": "Contracts & Cocktails: A Founder Legal Tech Mixer",
+  "host": "Stripe Legal Tech Community x Contractr AI",
+  "date": "2026-11-12",
+  "start": "19:00",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/hihh4mxe",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "corporate",
+    "product"
+   ],
+   "sectors": [
+    "saas",
+    "fintech"
+   ],
+   "goals": [
+    "learn",
+    "party",
+    "sell"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "compliance"
+   ]
+  },
+  "note": "Legal tech and payments people; waitlist on Oct 30.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "staaake-hangover",
+  "title": "staaake Hangover Rooftop AI/Tech Event: Reverse Network Meet",
+  "host": "staaake",
+  "date": "2026-11-12",
+  "start": "18:30",
+  "end": null,
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://luma.com/staaake-i8fm",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "other"
+   ],
+   "sectors": [
+    "ai",
+    "any"
+   ],
+   "goals": [
+    "party",
+    "cofounder",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Free rooftop near the venue on the last night.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "founders-dont-cry",
+  "title": "Founders (don't) cry",
+  "host": "Matteo Cassese and co-host, PTW",
+  "date": "2026-11-12",
+  "start": "19:00",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/ldiykyt8",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": []
+  },
+  "note": "Honest founder stories to close the week.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "product-circle-leaders",
+  "title": "Product Circle Leaders Circle Lisbon",
+  "host": "Product Circle",
+  "date": "2026-11-13",
+  "start": "09:30",
+  "end": "18:30",
+  "venue": "Nagarro offices",
+  "address": "Lisbon",
+  "area": "Centro",
+  "url": "https://www.productcircle.co/events/lisbon-november-2026",
+  "price": "EUR 274 excl. VAT",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn",
+    "hire",
+    "get_hired"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "workshop",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "25 product leaders, application; code UXPA20 gives 20% off (UXPA Portugal post, Oct 5).",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "eu-ai-act-ready",
+  "title": "Is Your AI Startup Ready for Europe? EU AI Act, product readiness, investor expectations",
+  "host": "Portugal Tech Week",
+  "date": "2026-11-13",
+  "start": "11:30",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/buqma11b",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "corporate"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "learn",
+    "raise"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "compliance"
+   ]
+  },
+  "note": "Compliance and investor readiness for AI startups.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "why-users-leave-ai",
+  "title": "Why Users Leave Your AI Feature (and How to Make Them Stay)",
+  "host": "Portugal Tech Week",
+  "date": "2026-11-13",
+  "start": "14:30",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/bcrch66r",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder"
+   ],
+   "sectors": [
+    "ai",
+    "saas",
+    "consumer"
+   ],
+   "goals": [
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "Product retention talk for AI features.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "crypto-padel-whitebit",
+  "title": "Crypto Padel by WhiteBIT",
+  "host": "WhiteBIT",
+  "date": "2026-11-13",
+  "start": "16:00",
+  "end": "00:00",
+  "venue": "NAVE",
+  "address": "Rua do Acucar 19",
+  "area": "Marvila",
+  "url": "https://luma.com/hrem9w27",
+  "price": "free",
+  "access": "invite",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "sales",
+    "investor"
+   ],
+   "sectors": [
+    "crypto"
+   ],
+   "goals": [
+    "party",
+    "sell",
+    "cofounder"
+   ],
+   "communities": [
+    "crypto_biz"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Crypto exchange crowd; guest list only.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "web-apps-for-pms",
+  "title": "How web apps work: for product managers who want to follow the technical conversation",
+  "host": "Portugal Tech Week",
+  "date": "2026-11-13",
+  "start": "19:00",
+  "end": null,
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/0hccxsn4",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "workshop",
+   "themes": [
+    "product"
+   ]
+  },
+  "note": "Technical literacy session for PMs.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "vc-world-summit",
+  "title": "Lisbon 2026 Venture Capital World Summit",
+  "host": "Venture Capital World Summit",
+  "date": "2026-11-13",
+  "start": "10:00",
+  "end": null,
+  "venue": "See event page",
+  "address": "Parque das Nações",
+  "area": "Parque das Nações",
+  "url": "https://luma.com/s23ft4kf",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "investor",
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Waitlist on Oct 30.",
+  "verified_on": "2026-10-30",
+  "elena_pick": false
+ },
+ {
+  "id": "hackenproof-proofpoint",
+  "title": "ProofPoint WebSummit: 1001 Scam Nights",
+  "host": "HackenProof",
+  "date": "2026-11-08",
+  "start": "18:00",
+  "end": "22:00",
+  "venue": "Shared after approval",
+  "address": "",
+  "area": "Lisbon",
+  "url": "https://luma.com/z0sbnfpg",
+  "price": "free",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "product",
+    "investor",
+    "other"
+   ],
+   "sectors": [
+    "crypto"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "compliance"
+   ]
+  },
+  "note": "Web3 security crowd from Hacken, drinks and stories. Approval required, no badge.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ },
+ {
+  "id": "payments-uncorked",
+  "title": "Payments Uncorked: wine dinner by Yuno and Airwallex",
+  "host": "Yuno and Airwallex",
+  "date": "2026-11-10",
+  "start": "19:00",
+  "end": "22:00",
+  "venue": "Pomar Restaurant",
+  "address": "",
+  "area": "Centro",
+  "url": "https://luma.com/w7ghdo5k",
+  "price": "see page",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "product",
+    "founder",
+    "corporate",
+    "sales"
+   ],
+   "sectors": [
+    "fintech"
+   ],
+   "goals": [
+    "sell",
+    "learn",
+    "hire"
+   ],
+   "communities": [
+    "crypto_biz",
+    "any"
+   ],
+   "vibe": "dinner",
+   "themes": []
+  },
+  "note": "For payments, finance and product leaders at merchants, PSPs, banks and wallets. Approval required.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ },
+ {
+  "id": "angels-meetup",
+  "title": "Angels Meetup: Web Summit edition",
+  "host": "Investors Portugal",
+  "date": "2026-11-10",
+  "start": "18:00",
+  "end": "20:00",
+  "venue": "PTW Palace",
+  "address": "Rua Gomes Freire 98",
+  "area": "Arroios",
+  "url": "https://luma.com/miiqmqxy",
+  "price": "free",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "investor",
+    "founder"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "raise",
+    "learn"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "networking",
+   "themes": [
+    "investors"
+   ]
+  },
+  "note": "Business angels and people who want to become one. Bubbly, no pitches.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ },
+ {
+  "id": "ai-horizon",
+  "title": "AI Horizon Conference 2026",
+  "host": "AI Ethics and Integrity International Association",
+  "date": "2026-11-11",
+  "start": "18:00",
+  "end": "23:00",
+  "venue": "Lumen Hotel",
+  "address": "R. Sousa Martins 20",
+  "area": "Marquês de Pombal",
+  "url": "https://luma.com/p6glepvg",
+  "price": "free tier",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product",
+    "corporate",
+    "other"
+   ],
+   "sectors": [
+    "ai"
+   ],
+   "goals": [
+    "learn",
+    "raise",
+    "party"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "talk",
+   "themes": []
+  },
+  "note": "Talks, startup pitches and an after party. Free by application; a paid ticket guarantees entry.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ },
+ {
+  "id": "w3b-after-dark",
+  "title": "W3B Summit After Dark",
+  "host": "Black Lipstick",
+  "date": "2026-11-11",
+  "start": "21:00",
+  "end": null,
+  "venue": "Black Lipstick wine bar",
+  "address": "",
+  "area": "Príncipe Real",
+  "url": "https://luma.com/sq0ty3gl",
+  "price": "see page",
+  "access": "register",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "product",
+    "other"
+   ],
+   "sectors": [
+    "crypto",
+    "fintech"
+   ],
+   "goals": [
+    "party",
+    "cofounder",
+    "sell"
+   ],
+   "communities": [
+    "any"
+   ],
+   "vibe": "party",
+   "themes": []
+  },
+  "note": "Wine and Web3 night on DeFi, agentic finance and tokenized capital. Runs until 2am.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ },
+ {
+  "id": "r-founders-party",
+  "title": "R-Founders Party: Godfather night",
+  "host": "R-Founders",
+  "date": "2026-11-11",
+  "start": "19:30",
+  "end": null,
+  "venue": "MAAT Cafe & Kitchen",
+  "address": "Av. Brasília, Museu MAAT",
+  "area": "Belém",
+  "url": "https://r-founders.com/websummit-party",
+  "price": "see page",
+  "access": "approval",
+  "needs_badge": false,
+  "tags": {
+   "audience": [
+    "founder",
+    "investor",
+    "corporate",
+    "product"
+   ],
+   "sectors": [
+    "any"
+   ],
+   "goals": [
+    "party",
+    "raise",
+    "sell",
+    "cofounder"
+   ],
+   "communities": [
+    "ru",
+    "any"
+   ],
+   "vibe": "party",
+   "themes": [
+    "regional"
+   ]
+  },
+  "note": "Annual party of the largest Russian-speaking founders community, until midnight. Paid, by application; dress code black with one red detail.",
+  "verified_on": "2026-11-04",
+  "elena_pick": false
+ }
+]

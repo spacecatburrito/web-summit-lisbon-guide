@@ -1,0 +1,14 @@
+	# ws26 guide short URL tss.wtf/ws (inserted by ws26-guide/deploy/install.sh)
+	handle /ws/api/* {
+		uri strip_prefix /ws
+		reverse_proxy 127.0.0.1:8006
+	}
+	handle /ws/p/* {
+		uri strip_prefix /ws
+		reverse_proxy 127.0.0.1:8006
+	}
+	redir /ws /ws/ 301
+	handle_path /ws/* {
+		root * /srv/ws26/public
+		file_server
+	}

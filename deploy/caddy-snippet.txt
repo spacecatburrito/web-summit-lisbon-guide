@@ -1,0 +1,14 @@
+	# ws26 guide (inserted by ws26-guide/deploy/install.sh)
+	handle /ws26/api/* {
+		uri strip_prefix /ws26
+		reverse_proxy 127.0.0.1:8006
+	}
+	handle /ws26/p/* {
+		uri strip_prefix /ws26
+		reverse_proxy 127.0.0.1:8006
+	}
+	redir /ws26 /ws26/ 301
+	handle_path /ws26/* {
+		root * /srv/ws26/public
+		file_server
+	}

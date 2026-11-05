@@ -1,0 +1,297 @@
+[
+ {
+  "id": "badge-airport",
+  "text": "Collect your badge at the airport desk when you land. Past attendees report no queue there, while the venue line on day one runs 30 minutes or more.",
+  "tags": [
+   "badge",
+   "first_timer",
+   "logistics"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "transport-pass",
+  "text": "Web Summit transport pass: 3 days EUR 23, 5 days EUR 31.50, metro, Carris buses and trams, urban trains. Sold only at Lisbon Airport next to accreditation, Nov 7-10.",
+  "tags": [
+   "transport",
+   "logistics",
+   "badge"
+  ],
+  "source": "https://www.cp.pt/info/en/w/web-summit-transport-pass"
+ },
+ {
+  "id": "transport-pass-hours",
+  "text": "Transport pass desk hours at the airport: Nov 7 09:30-22:00, Nov 8-9 07:30-21:30, Nov 10 07:30-14:30. Buy it on arrival, not later.",
+  "tags": [
+   "transport",
+   "logistics"
+  ],
+  "source": "https://www.cp.pt/info/en/w/web-summit-transport-pass"
+ },
+ {
+  "id": "side-entrances",
+  "text": "Skip the main entrance crowd: side and back entrances lead straight to Pavilion 4 and move much faster.",
+  "tags": [
+   "badge",
+   "logistics",
+   "first_timer"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "security-funnel",
+  "text": "Everyone funnels through one security area; opening night is the worst. Budget 30 minutes and use the queue to talk to the people around you.",
+  "tags": [
+   "badge",
+   "first_timer",
+   "logistics"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "app-meetings-now",
+  "text": "Send meeting requests in the Web Summit app before you land. Slots fill fast and the app gets noisy in the last days; 10 requests a day is a realistic pace.",
+  "tags": [
+   "app",
+   "networking",
+   "badge"
+  ],
+  "source": "https://www.flowtrip.app/blog/web-summit-2025-trip"
+ },
+ {
+  "id": "app-profile-line",
+  "text": "Write one line in your app profile saying what you are working on and what you want this week. People read it before they walk over.",
+  "tags": [
+   "app",
+   "networking"
+  ],
+  "source": "https://comealone.app/night-summit-alone/"
+ },
+ {
+  "id": "request-hit-rate",
+  "text": "Expect roughly one accepted meeting per four requests. One journalist sent 13 interview requests and got 3; send more than you need.",
+  "tags": [
+   "app",
+   "networking",
+   "badge"
+  ],
+  "source": "https://businesscloud.co.uk/opinion/10-takeaways-from-web-summit-2025/"
+ },
+ {
+  "id": "linkedin-qr-lockscreen",
+  "text": "Put your LinkedIn QR code on your phone lock screen. It saves 20 seconds in every conversation and works when the venue Wi-Fi does not.",
+  "tags": [
+   "networking",
+   "first_timer"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "notes-channel",
+  "text": "Keep one private channel (Telegram saved messages, Notes, Slack DM to yourself) for names, links and the one thing you promised each person. Write it before the next conversation.",
+  "tags": [
+   "networking"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "follow-up-48h",
+  "text": "Follow up within 48 hours while people still remember your face. Connect on LinkedIn the same day with a one-line note about where you met.",
+  "tags": [
+   "networking"
+  ],
+  "source": "https://www.flowtrip.app/blog/web-summit-2025-trip"
+ },
+ {
+  "id": "niche-sessions",
+  "text": "Meetups by role or industry are where real conversations happen. The main floor is speed dating: 5-10 minutes per person.",
+  "tags": [
+   "networking",
+   "badge",
+   "first_timer"
+  ],
+  "source": "https://www.rewardful.com/articles/web-summit-2025-first-time-lessons"
+ },
+ {
+  "id": "masterclass-early",
+  "text": "Masterclasses and roundtables have limited seats. Arrive 10-15 minutes early for a masterclass and 30-40 minutes early for a roundtable.",
+  "tags": [
+   "badge",
+   "logistics"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "food-outside",
+  "text": "Food on site is expensive and average, about EUR 16 for a mediocre lunch. Bring snacks or eat at Vasco da Gama mall next door; catering is cashless.",
+  "tags": [
+   "food",
+   "logistics",
+   "badge"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "lunch-timing",
+  "text": "Most tracks break 13:00-14:00 and the food trucks queue at once. Eat at 12:15 or 14:30, or share a table with a stranger and call it networking.",
+  "tags": [
+   "food",
+   "networking",
+   "badge"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "water-battery",
+  "text": "Bring a bottle (refill stations inside) and a power bank. Outlets are scarce and the app plus 15,000 steps drain a phone by mid-afternoon.",
+  "tags": [
+   "logistics",
+   "first_timer"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "shoes-rain",
+  "text": "Flat shoes and a waterproof. 2025 was the first rainy Web Summit in ten years and the venue walk is long; expect 10 km a day.",
+  "tags": [
+   "logistics",
+   "first_timer",
+   "weather"
+  ],
+  "source": "https://www.rewardful.com/articles/web-summit-2025-first-time-lessons"
+ },
+ {
+  "id": "stay-central",
+  "text": "Stay in Baixa, Chiado or Bairro Alto if you can. Evening events cluster there and the morning metro to Oriente beats a taxi in traffic.",
+  "tags": [
+   "lisbon",
+   "transport",
+   "evenings"
+  ],
+  "source": "https://www.reddit.com/r/WebSummit/comments/1ge0syh/what_area_do_you_recommend_staying_in/"
+ },
+ {
+  "id": "night-summit-early",
+  "text": "Night Summit 2026 runs inside the venue, in Pavilion 5: Mon 20:00-23:00, Tue and Wed 18:00-21:00, last entry 21:30, badge only. Coming from town after 17:00, use the North Entrance by Moscavide metro.",
+  "tags": [
+   "evenings",
+   "badge",
+   "networking"
+  ],
+  "source": "https://websummit.com/essentials/schedule-essentials/"
+ },
+ {
+  "id": "night-summit-friends",
+  "text": "Night Summit Downtown is open to everyone, friends included: Tue 10 Nov from 21:00 at Quiosque Lisboa, Praça São Paulo (Cais do Sodré), Wed 11 Nov at Quiosque Lisboa, Príncipe Real. Wear your lanyard so people find you.",
+  "tags": [
+   "evenings",
+   "no_badge",
+   "badge",
+   "party"
+  ],
+  "source": "https://websummit.com/essentials/schedule-essentials/"
+ },
+ {
+  "id": "night-summit-check-venue",
+  "text": "No umbrellas of any size at Night Summit, and only retractable ones in the venue by day. Lisbon in November can rain, so a hooded waterproof beats an umbrella.",
+  "tags": [
+   "weather",
+   "evenings",
+   "badge"
+  ],
+  "source": "https://websummit.com/essentials/schedule-essentials/"
+ },
+ {
+  "id": "no-badge-plan",
+  "text": "No badge? Portugal Tech Week Palace (Rua Gomes Freire 98) runs free talks and after-hours all week, and most luma side events do not check for a Web Summit ticket.",
+  "tags": [
+   "no_badge",
+   "first_timer"
+  ],
+  "source": "https://www.side-events-guide.com/"
+ },
+ {
+  "id": "side-events-register",
+  "text": "Register for side events now. Hosts approve within 24-48 hours and the good ones fill before the summit starts.",
+  "tags": [
+   "networking",
+   "evenings",
+   "first_timer"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "whatsapp-channels",
+  "text": "Web Summit opens WhatsApp community channels (Women in Tech, country groups). Join one or two, not five; five is chaos.",
+  "tags": [
+   "app",
+   "networking"
+  ],
+  "source": "https://katico.io/web-summit-tips-dos-and-donts-for-first-time-attendees/"
+ },
+ {
+  "id": "one-question",
+  "text": "Going alone? Carry one question, for example: what brought you to Lisbon this week? Then listen. Leave politely when the conversation is done.",
+  "tags": [
+   "networking",
+   "first_timer"
+  ],
+  "source": "https://comealone.app/night-summit-alone/"
+ },
+ {
+  "id": "booth-passes",
+  "text": "Many evening parties hand out free passes at the host's booth during the day. Stop by the booth of any party you want to attend.",
+  "tags": [
+   "evenings",
+   "badge",
+   "party"
+  ],
+  "source": "https://www.reddit.com/r/WebSummit/comments/1o1zw61/are_there_a_lo_of_solo_attendees_or_is_everyone/"
+ },
+ {
+  "id": "perks-section",
+  "text": "Open the Perks section in the app before you leave: cloud credits and tools discounts are included in the ticket and most people never claim them.",
+  "tags": [
+   "app",
+   "badge"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "export-contacts",
+  "text": "Export your app connections after the summit and put them somewhere you will actually look; the app is not your CRM.",
+  "tags": [
+   "networking",
+   "app"
+  ],
+  "source": "https://medium.com/ourspacehq/web-summit-survival-guide-963bf771ecb"
+ },
+ {
+  "id": "bag-check",
+  "text": "Only small bags get in: laptop bag, handbag or backpack size. Bag drops are at the South and North entrances, so on your travel day leave the suitcase there or at the hotel.",
+  "tags": [
+   "logistics",
+   "badge"
+  ],
+  "source": "https://websummit.com/essentials/venue/"
+ },
+ {
+  "id": "lower-expectations",
+  "text": "Investors are flooded. Treat the week as relationship building, not fundraising: aim for second meetings in December, not term sheets on Thursday.",
+  "tags": [
+   "networking",
+   "first_timer"
+  ],
+  "source": "https://thebcms.com/blog/web-summit-guide"
+ },
+ {
+  "id": "badge-hours",
+  "text": "Collect lanyard and wristband at Airport Terminal 1 (Sat 7 to Mon 9, until 22:00; Tue until 15:00) or at Pavilhão de Portugal by the venue. Bring the app ticket and photo ID. A lost item costs EUR 100.",
+  "tags": [
+   "badge",
+   "logistics",
+   "first_timer"
+  ],
+  "source": "https://websummit.com/essentials/registration/"
+ }
+]

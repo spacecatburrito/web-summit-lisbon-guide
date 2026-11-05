@@ -1,0 +1,5 @@
+public/data
+.venv/
+__pycache__/
+*.db
+node_modules
